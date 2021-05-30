@@ -14,4 +14,7 @@ Codewars - это образовательное сообщество по ко�
 # Java
 | kyu | Codewars Kate | My Solutions |
 | --- | --- | --- |
-| 7 | [Reverse a Number](https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5) | [ReverseNumber.java](https://github.com/casper91044/codewars-challenge/blob/master/src/main/java/com/codewars/kyu7/ReverseNumber.java) |
+| 7 | [Reverse a Number](https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5) |
+[ReverseNumber.java](https://github.com/casper91044/codewars-challenge/blob/master/src/main/java/com/codewars/kyu7/ReverseNumber.java) |
+| 7 | [Find the next perfect square!](https://www.codewars.com/kata/56269eb78ad2e4ced1000013) | 
+[PerfectSquare.java]() |
